@@ -1,0 +1,3 @@
+[submodule "util/Editor"]
+	path = util/Editor
+	url = https://github.com/Anivice/Editor.git
